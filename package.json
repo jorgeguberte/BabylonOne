@@ -1,0 +1,22 @@
+{
+  "name": "babylon-one",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeguberte/BabylonOne.git"
+  },
+  "author": "Jorge Guberte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeguberte/BabylonOne/issues"
+  },
+  "homepage": "https://github.com/jorgeguberte/BabylonOne#readme"
+}
